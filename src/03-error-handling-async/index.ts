@@ -1,4 +1,4 @@
- export const resolveValue = async (value: unknown) => {
+export const resolveValue = async (value: unknown) => {
   return value;
 };
 
